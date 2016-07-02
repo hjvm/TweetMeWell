@@ -45,9 +45,34 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+-User Sign-In & Authentication
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='http://i.imgur.com/Ubym1og.gif' title='User sign-in' width='' alt='Video Walkthrough' />
+
+
+-Auto Layout:
+
+<img src='http://i.imgur.com/BI8RwkQ.gif' title='AutoLayout Function' width='' alt='Video Walkthrough' />
+
+
+-Viewing User Profiles:
+
+<img src='http://i.imgur.com/R41Of1a.gif' title='View User Profiles' width='' alt='Video Walkthrough' />
+
+
+-Retweet/Unretweet & Like/Unlike:
+
+<img src='http://i.imgur.com/Vxf0MZP.gif' title='Retweet/Unretweet & Like/Unlike' width='' alt='Video Walkthrough' />
+
+
+-Posting Tweets:
+
+<img src='http://i.imgur.com/zVj3lrJ.gif' title='Posting Tweets' width='' alt='Video Walkthrough' />
+
+
+
+
+GIF's created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
